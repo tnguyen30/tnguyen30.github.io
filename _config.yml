@@ -1,9 +1,10 @@
 title: Tien Nguyen # your name (or website title) here
-logo: "/images/20200625_220059100_iOS.jpg" # your photo (or logo) here
+logo: "/images/profilepic.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   A college student who is passionate about music and sounds. I have experienced in recording music and using various audio-editing softwares such as Pro Tools, Logic Pro, SuperCollider, and Adobe Audition. 
   <br><br>
   <a href="https://www.linkedin.com/in/tien-nguyen-4139951b8/">View My LinkedIn Profile</a>
-  
+
+<br><br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

@@ -4,8 +4,9 @@
 
 ### Programming 
 
-[Mystic Creatures](/sample_page)
+[Mystic Creatures]
 <img src="images/MysticCreatures_logo.jpg"/>
+A text-based adventure game written in C# coding language.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

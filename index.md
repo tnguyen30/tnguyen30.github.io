@@ -4,7 +4,7 @@
 
 ### Programming 
 
-[Mystic Creatures](/sample_page)
+[Mystic Creatures](/mysticcreatures_description)
 <img src="images/MysticCreatures_logo.jpg"/>
 
 ---

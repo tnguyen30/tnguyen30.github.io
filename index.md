@@ -26,7 +26,7 @@ SOULBOT
 ### Music Tech Projects
 VOICE CHANGER
 <br><br>
-<img src="images/voicechanger_front4.heic"/>
+<img src="images/voicechanger_front.png"/>
 <br><br>
 
 ---

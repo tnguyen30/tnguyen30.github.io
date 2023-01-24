@@ -1,4 +1,4 @@
-## VOICE CHANGER
+## THE VOICE CHANGER MASK
 
 **Project description:** This is a prototype of a voice changer mask that allows user to change their voice into a robot in real-time. 
 <br>
@@ -20,7 +20,7 @@ I designed the PCB based on the data sheet that provided by [Jameco Electronics]
 
 ### 4. Next step
 
-The mask is definitely needed to be redesigned to separate the speaker and the mic so they won't cause feedback. Another solution is that we can design a custom mask such as a robot mask for Halloween, which would be a fun experiment.
+The mask is definitely needed to be redesigned to separate the speaker and the mic so they won't cause feedback. Another solution is that I can design a custom mask such as a robot mask for Halloween, which would be a fun experiment.
  
 ### References
 

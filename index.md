@@ -24,17 +24,10 @@ SOULBOT
 ---
 
 ### Music Tech Projects
-[VOICE CHANGER](/voicechanger_page)
+[VOICE CHANGER](/voicechanger_page) (Click to see the details)
 
 ---
-
-Mystic Creatures
-<br><br>
-<img src="images/MysticCreatures_logo.jpg"/>
-<br><br>
-Mystic Creatures is a text-based adventure game written in C# coding language. The project demonstrates object-oriented programming principles inheritance, encapsulation, and polymorphism.
-In *The World of Mystic Creatures*, you play an anonymous protagonist who accidentally fell off a cruise and got lost in the under-ocean world where there’s people and sea animals live harmoniously. You will face different challenges in order to go back home.
-
+[THE VOLTFLUTE GLOVES (by Tien Nguyen and Patrick Martin)](glovesynth_page) (Click to see the details)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

@@ -10,7 +10,7 @@ BEDFELLOWS
 <br>
 [Short Horror Film: Bedfellows (Music and Sounds by Tien)](https://youtu.be/qjXORN1yXfU)
 <br><br>
-This is my very first sound design project. The music was composed by me using a virtual keyboard. The voice actors were myself, Hayley Tran, and Taichi Kobayashi. It was recorded using Tascam DR-40X portable recorder. The short horror film "Bedfellows" was released in 2009 and directed by Drew Daywalt. It also won the Chiller-Eyegore Award for Best Short Film in 2009. This certainly is not a perfect project, but I really enjoyed working on it.
+This is my very first sound design project. The music was composed by me using a virtual keyboard. The voice actors were myself, [Hayley Tran](https://www.linkedin.com/in/hayley-tran-342125186/), and Taichi Kobayashi. It was recorded using Tascam DR-40X portable recorder. The short horror film "Bedfellows" was released in 2009 and directed by Drew Daywalt. It also won the Chiller-Eyegore Award for Best Short Film in 2009. This is certainly not a perfect project, but I had a great time working on it.
 
 ---
 SOULBOT
@@ -24,7 +24,7 @@ SOULBOT
 ---
 
 ### Music Tech Projects
-[VOICE CHANGER](/voicechanger_page) (Click to see the details)
+[THE VOICE CHANGER MASK](/voicechanger_page) (Click to see the details)
 
 ---
 [THE VOLTFLUTE GLOVES (by Tien Nguyen and Patrick Martin)](glovesynth_page) (Click to see the details)

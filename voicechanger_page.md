@@ -25,4 +25,5 @@ The mask is definitely needed to be redesigned to separate the speaker and the m
 ### References
 
 [PCB data sheet](https://www.jameco.com/z/WSAH171-Velleman-Voice-Changer-Solder-Assembly-Kit-Change-Pitch-Add-Vibrato-Effect_2130731.html)
+<br>
 [Mask design](https://pinshape.com/items/61146-3d-printed-face-mask-coronavirus) by Let's Print

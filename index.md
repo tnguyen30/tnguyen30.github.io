@@ -7,7 +7,7 @@
 BEDFELLOWS
 <br><br>
 <img src="images/bedfellows2.webp"/>
-[Short Horror Film: Bedfellows (Music and Sounds by Tien)]https://youtu.be/qjXORN1yXfU
+[Short Horror Film: Bedfellows (Music and Sounds by Tien)](https://youtu.be/qjXORN1yXfU)
 <br><br>
 This is my very first sound design project. The music was composed by me using a virtual keyboard. The voice actors were myself, Hayley Tran, and Taichi Kobayashi. It was recorded using Tascam DR-40X portable recorder. The short horror film "Bedfellows" was released in 2009 and directed by Drew Daywalt. It also won the Chiller-Eyegore Award for Best Short Film in 2009. This certainly is not a perfect project, but I really enjoyed working on it.
 
@@ -15,7 +15,7 @@ This is my very first sound design project. The music was composed by me using a
 SOULBOT
 <br><br>
 <img src="images/soulbot.webp"/>
-[Soulbot (Sounds by Tien)]https://youtu.be/ltQaZAETpzY
+[Soulbot (Sounds by Tien)](https://youtu.be/ltQaZAETpzY)
 <br><br>
 "Soulbot" is a sound design project for a commercial video. The music was from Apple Live Loops and was put together on Logic Pro. Most sound effects were collected from freesound.org. The whole project was edited on Pro Tools. The most challenging part while working on this project was that making sure the sound effects of the robots' arms are in sync with the video.
 
@@ -24,7 +24,7 @@ SOULBOT
 ### Music Tech Projects
 VOICE CHANGER
 <br><br>
-<img src="images/voicechanger_front2.heic"/>
+<img src="images/voicechanger_front3.heic"/>
 <br><br>
 
 ---

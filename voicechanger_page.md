@@ -6,6 +6,7 @@
 <br><br>
 ### 1. The mask design
 <img src="images/voicechanger_front3.png"/>
+<img src="images/voicechanger_back.png"/>
 <br>
 The mask was originally designed by Let's Print. It was 3D-printed using MakerBot Replicator Z18, the louspeaker was hot glued to the front, and two rubber bands were attached to the sides. In the picture on the right, you can see there's a piece of wood taped between the speaker and the microphone that's because they were placed too closed to each other which causing feedback.
 

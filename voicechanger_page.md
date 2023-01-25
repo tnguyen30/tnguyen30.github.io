@@ -1,11 +1,11 @@
 ## THE VOICE CHANGER MASK
 
-**Project description:** This is a prototype of a voice changer mask that allows user to change their voice into a robot in real-time. 
+**Project description:** This is a prototype of a voice changer mask that allows user to change their voice into a robot in real-time. The purpose of the mask is to minimize your real voice so people could hear the modulated voice better. Alternatively, the mask can be redesigned to fit a robot head costume, for example.
 <br>
 <img src="images/voicechanger_front2.png"/>
 <br><br>
 ### 1. The mask design
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/voicechanger_front3.png"/>
 <br>
 The mask was originally designed by Let's Print. It was 3D-printed using MakerBot Replicator Z18, the louspeaker was hot glued to the front, and two rubber bands were attached to the sides. In the picture on the right, you can see there's a piece of wood taped between the speaker and the microphone that's because they were placed too closed to each other which causing feedback.
 
@@ -17,11 +17,7 @@ I designed the PCB based on the data sheet that provided by [Jameco Electronics]
 
 [Click here](https://drive.google.com/file/d/1AG7_wzVrepQSZSVkocT2anQ-pAixx95i/view?usp=sharing) to watch the demonstration video.
 
-
-### 4. Next step
-
-The mask is definitely needed to be redesigned to separate the speaker and the mic so they won't cause feedback. Another solution is that I can design a custom mask such as a robot mask for Halloween, which would be a fun experiment.
- 
+---
 ### References
 
 [PCB data sheet](https://www.jameco.com/z/WSAH171-Velleman-Voice-Changer-Solder-Assembly-Kit-Change-Pitch-Add-Vibrato-Effect_2130731.html)

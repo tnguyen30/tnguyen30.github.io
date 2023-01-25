@@ -4,7 +4,7 @@
 <br><br>
 The VoltFlute Gloves is an instrument that opens up a new way to create sounds and music with your hands.
 <br><br>
-Here is a poster summerized the project that my partner Patrick made for The 8th International Conference on Movement and Computing (MOCO'22) at Columbia College Chicago.
+This is a poster summerized the project that my partner Patrick made for The 8th International Conference on Movement and Computing (MOCO'22) at Columbia College Chicago.
 <br><br>
 <img src="images/glovesynth.png"/>
 <br>

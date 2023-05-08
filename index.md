@@ -2,6 +2,14 @@
 
 ---
 
+### Music Tech Projects
+[THE VOICE CHANGER MASK](/voicechanger_page) (Click to see the details)
+
+---
+[THE VOLTFLUTE GLOVES (by Tien Nguyen and Patrick Martin)](glovesynth_page) (Click to see the details)
+
+---
+
 ### Sound Design Projects
 
 BEDFELLOWS
@@ -29,12 +37,5 @@ Reference:
 
 ---
 
-### Music Tech Projects
-[THE VOICE CHANGER MASK](/voicechanger_page) (Click to see the details)
-
----
-[THE VOLTFLUTE GLOVES (by Tien Nguyen and Patrick Martin)](glovesynth_page) (Click to see the details)
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

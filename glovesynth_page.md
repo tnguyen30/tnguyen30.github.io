@@ -1,6 +1,7 @@
 ## THE VOLTFLUTE GLOVES (by Tien Nguyen and Patrick Martin)
 
 **Project description:**
+<br>
 This project focuses on sound and movement, utilizing gloves as a controller that incorporates three types of interactions: touch, flex, and motion. 
 
 For the touch interaction, we use a set of resistors with varying values connected to an Arduino (specifically the [SparkFun RedBoard Plus](https://www.sparkfun.com/products/18158?gclid=CjwKCAiAoL6eBhA3EiwAXDom5o1pHBmLw4evZSg0s42MV4RDG1Incx7Id3NLVxjXL-zsDAnQutcWihoCsQsQAvD_BwE)). The data collected from these resistors is sent serially to [Pure Data](https://puredata.info/), our synthesis engine, which assigns a pitch based on each data value.

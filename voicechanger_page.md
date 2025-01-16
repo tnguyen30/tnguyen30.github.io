@@ -14,7 +14,7 @@ The mask was originally designed by Let's Print. It was 3D-printed using MakerBo
 <img src="images/voicechanger_PCB.png"/>
 <img src="images/voicechanger_battery.png"/>
 <br>
-I designed the PCB based on the data sheet that provided by [Jameco Electronics](https://www.jameco.com/). I used [KiCAD](https://www.kicad.org/) to design the board and ordered it from [JLCPCB](https://jlcpcb.com/). The PCB was sewed to a small wallet, which stored a 9-volt battery. You can clip the wallet on your belt or waistband.
+I designed the PCB based on the data sheet that provided by [Jameco Electronics](https://www.jameco.com/). I used [KiCad](https://www.kicad.org/) to design the board and ordered it from [JLCPCB](https://jlcpcb.com/). The PCB was sewed to a small wallet, which stored a 9-volt battery. You can clip the wallet on your belt or waistband.
 
 ### 3. Demonstration
 

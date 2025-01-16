@@ -1,10 +1,15 @@
 ## THE VOLTFLUTE GLOVES (by Tien Nguyen and Patrick Martin)
 
-**Project description:** This is a project that is focused on sound and movement. The gloves act like a controller making use of three interactions: touch, flex, and motion. For the touch aspect, we have a set of different resistors with different values, which are fed into an Arduino (we used [SparkFun RedBoard Plus](https://www.sparkfun.com/products/18158?gclid=CjwKCAiAoL6eBhA3EiwAXDom5o1pHBmLw4evZSg0s42MV4RDG1Incx7Id3NLVxjXL-zsDAnQutcWihoCsQsQAvD_BwE)), and then that serial data will go into [Pure Data](https://puredata.info/) our synthesis engine, which will assign a pitch for each data value. For the flex and motion aspect, the idea is pretty much the same, but the flex sensor (flex) will control the cutoff filter and the accelerometer (motion), which has X and Y axis, will control vibrato and volume respectively. The values then are fed into a different Arduino, but connect into the same computer.
+**Project description:**
+This project focuses on sound and movement, utilizing gloves as a controller that incorporates three types of interactions: touch, flex, and motion. 
+
+For the touch interaction, we use a set of resistors with varying values connected to an Arduino (specifically the [SparkFun RedBoard Plus](https://www.sparkfun.com/products/18158?gclid=CjwKCAiAoL6eBhA3EiwAXDom5o1pHBmLw4evZSg0s42MV4RDG1Incx7Id3NLVxjXL-zsDAnQutcWihoCsQsQAvD_BwE)). The data collected from these resistors is sent serially to [Pure Data](https://puredata.info/), our synthesis engine, which assigns a pitch based on each data value.
+
+In the case of the flex and motion interactions, the concept is similar. A flex sensor controls the cutoff filter, while an accelerometer, which has both X and Y axes, manages vibrato and volume, respectively. The values from these sensors are sent to a second Arduino, which is connected to the same computer.
 <br><br>
-The VoltFlute Gloves is an instrument that opens up a new way to create sounds and music with your hands.
+The VoltFlute Gloves are an instrument that introduces a new way to create sounds and music using your hands.
 <br><br>
-This is a poster summerized the project that my partner Patrick made for The 8th International Conference on Movement and Computing (MOCO'22) at Columbia College Chicago.
+This poster summarizes the project my partner Patrick created for The 8th International Conference on Movement and Computing (MOCO'22) at Columbia College Chicago.
 <br><br>
 <img src="images/glovesynth.png"/>
 <br>

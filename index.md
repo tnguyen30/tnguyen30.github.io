@@ -6,7 +6,7 @@
 [THE VOICE CHANGER MASK](/voicechanger_page) (Click to see details)
 
 ---
-["BUTTON" SYNTHESIZER](/buttonsynth_page) (Click to see details)
+["BUTTON" SYNTHESIZER](/buttonsynth_page.md) (Click to see details)
 
 ---
 [THE VOLTFLUTE GLOVES (by Tien Nguyen and Patrick Martin)](glovesynth_page) (Click to see details)

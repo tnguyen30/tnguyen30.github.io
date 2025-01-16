@@ -3,9 +3,10 @@ logo: "/images/profilepic_animated2.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Illustration by Line Corporation
   <br><br>
-  Experienced in recording music and using various audio-editing tools and programming software such as Pro Tools, Logic Pro, Adobe Audition, SuperCollider, and Python. 
+  Skilled in music recording and proficient with various audio-editing tools 
+  and programming software, including Pro Tools, Logic Pro, Adobe Audition, SuperCollider, and Python. 
   <br><br>
-  <a [View My LinkedIn Profile](https://www.linkedin.com/in/tien-n-4139951b8/)</a>
+  [View My LinkedIn Profile](https://www.linkedin.com/in/tien-n-4139951b8/)
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

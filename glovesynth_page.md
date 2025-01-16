@@ -21,6 +21,6 @@ Watch the demonstration video [here](https://drive.google.com/file/d/1ZpX3eQfKFP
 ### References
 Mi.MU Gloves by MI.MU GLOVES LIMITED. [Link](https://mimugloves.com/documentation/mimu-gloves-overview/).
 <br>
-"The Quarterstaff, a Gestural Sensor Instrument" by Jan C. Schacher. [Link](https://www.nime.org/2013/program/papers/day4/paper11/144/144_Paper.pdf).
+"The Quarterstaff, a Gestural Sensor Instrument" by Jan C. Schacher.
 <br>
 _A human connection_, performed by Palindrome. [Link](https://vimeo.com/112230953).

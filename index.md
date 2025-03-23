@@ -2,16 +2,7 @@
 
 ---
 
-### Music Tech Projects
-[THE VOICE CHANGER MASK](/voicechanger_page.md) (Click to see details)
-
----
-["BUTTON" SYNTHESIZER](/buttonsynth_page.md) (Click to see details)
-
----
-[THE VOLTFLUTE GLOVES (by Tien Nguyen and Patrick Martin)](glovesynth_page.md) (Click to see details)
-
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9VO835IgI8?si=N1gQy5xYO94G-NYK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Sound Design Projects
 
@@ -39,6 +30,16 @@ Reference:
 "SoulBot" by Andreas Wannerstedt, _Vimeo_, [link](https://vimeo.com/25413547).
 
 ---
+
+### Music Tech Projects
+[THE VOICE CHANGER MASK](/voicechanger_page.md) (Click to see details)
+
+---
+["BUTTON" SYNTHESIZER](/buttonsynth_page.md) (Click to see details)
+
+---
+[THE VOLTFLUTE GLOVES (by Tien Nguyen and Patrick Martin)](glovesynth_page.md) (Click to see details)
+
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

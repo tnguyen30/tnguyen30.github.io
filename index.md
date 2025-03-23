@@ -14,8 +14,7 @@ This is a collaborative project with the artist HLOWN. The music features a pop-
 <br>
 The "Soulbot" project is a sound design initiative for a commercial video titled "SoulBot." The music was created using Apple Live Loops and assembled in Logic Pro. Most of the sound effects were sourced from freesound.org. The entire project was edited using Pro Tools. The most challenging aspect of this project was ensuring that the sound effects of the robots' arms were synchronized with the video.
 <br><br>
-Reference:
-"SoulBot" by Andreas Wannerstedt, _Vimeo_, [link](https://vimeo.com/25413547).
+Reference: ["SoulBot" by Andreas Wannerstedt](https://vimeo.com/25413547), _Vimeo_.
 
 ---
 ### Dear A, by tiên
@@ -23,7 +22,7 @@ Reference:
 <br>
 "Dear A," is a classical-inspired piece from J.S. Bach's "Minuet in G minor" (BWV Anh. 115). It includes sound effects to create a storytelling experience. The music was recorded and edited using Digital Performer.
 <br><br>
-Reference: "Bach (Petzold) - Minuet in G Minor - BWV Anh 115" by IC Music, _YouTube_, [link](https://youtu.be/XL7DugH00co?si=dwGjSdvwPLtpQax-).
+Reference: [Bach (Petzold) - Minuet in G Minor - BWV Anh 115](https://youtu.be/XL7DugH00co?si=dwGjSdvwPLtpQax-), _YouTube_.
 
 ---
 ### BEDFELLOWS
@@ -31,8 +30,7 @@ Reference: "Bach (Petzold) - Minuet in G Minor - BWV Anh 115" by IC Music, _YouT
 <br>
 This is my first sound design project. I composed the music using a keyboard plugin in Digital Performer. The voice actors were [Hayley Tran](https://www.linkedin.com/in/hayley-tran-342125186/), Taichi Kobayashi, and myself. It was recorded with a Tascam DR-40X portable recorder.
 <br><br>
-Reference:
-""Bedfellows" - Award Winning Short Horror Film" by Kentleigh, _YouTube_, [link](https://www.youtube.com/watch?v=WQvGmMVBYMw&t=1s&ab_channel=Kentleigh).
+Reference: ["Bedfellows" - Award Winning Short Horror Film" by Kentleigh](https://www.youtube.com/watch?v=WQvGmMVBYMw&t=1s&ab_channel=Kentleigh), _YouTube_.
 
 ---
 

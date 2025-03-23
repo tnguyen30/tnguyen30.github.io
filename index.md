@@ -1,22 +1,12 @@
-## Portfolio
+## PORTFOLIO
 
 ---
 
-<iframe width="500" height="273" src="https://www.youtube.com/embed/B9VO835IgI8?si=N1gQy5xYO94G-NYK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Sound Design Projects
-
-BEDFELLOWS
+### Music Production Projects
+'cHoke' by HLOWN
 <br><br>
-<img src="images/bedfellows2.webp"/>
-<br>
-[Short Horror Film: Bedfellows (Music and Sounds by Tien)](https://youtu.be/qjXORN1yXfU)
+<iframe width="500" height="275" src="https://www.youtube.com/embed/B9VO835IgI8?si=N1gQy5xYO94G-NYK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><br>
-This is my first sound design project. I composed the music using a keyboard plugin in Digital Performer. The voice actors were [Hayley Tran](https://www.linkedin.com/in/hayley-tran-342125186/), Taichi Kobayashi, and myself. It was recorded with a Tascam DR-40X portable recorder.
-<br><br>
-Reference:
-""Bedfellows" - Award Winning Short Horror Film" by Kentleigh, _YouTube_, [link](https://www.youtube.com/watch?v=WQvGmMVBYMw&t=1s&ab_channel=Kentleigh).
-
 ---
 SOULBOT
 <br><br>
@@ -28,6 +18,18 @@ The "Soulbot" project is a sound design initiative for a commercial video titled
 <br><br>
 Reference:
 "SoulBot" by Andreas Wannerstedt, _Vimeo_, [link](https://vimeo.com/25413547).
+
+---
+BEDFELLOWS
+<br><br>
+<img src="images/bedfellows2.webp"/>
+<br>
+[Short Horror Film: Bedfellows (Music and Sounds by Tien)](https://youtu.be/qjXORN1yXfU)
+<br><br>
+This is my first sound design project. I composed the music using a keyboard plugin in Digital Performer. The voice actors were [Hayley Tran](https://www.linkedin.com/in/hayley-tran-342125186/), Taichi Kobayashi, and myself. It was recorded with a Tascam DR-40X portable recorder.
+<br><br>
+Reference:
+""Bedfellows" - Award Winning Short Horror Film" by Kentleigh, _YouTube_, [link](https://www.youtube.com/watch?v=WQvGmMVBYMw&t=1s&ab_channel=Kentleigh).
 
 ---
 

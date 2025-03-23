@@ -4,15 +4,13 @@
 
 ### Music Production Projects
 'cHoke' by HLOWN
-<br><br>
+<br>
 <iframe width="500" height="275" src="https://www.youtube.com/embed/B9VO835IgI8?si=N1gQy5xYO94G-NYK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br><br>
+
 ---
 SOULBOT
-<br><br>
-<img src="images/soulbot.webp"/>
 <br>
-[Soulbot (Sounds by Tien)](https://youtu.be/ltQaZAETpzY)
+<iframe width="500" height="275" src="https://www.youtube.com/embed/ltQaZAETpzY?si=BO-mjabKZZUsVhWJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><br>
 The "Soulbot" project is a sound design initiative for a commercial video titled "SoulBot." The music was created using Apple Live Loops and assembled in Logic Pro. Most of the sound effects were sourced from freesound.org. The entire project was edited using Pro Tools. The most challenging aspect of this project was ensuring that the sound effects of the robots' arms were synchronized with the video.
 <br><br>

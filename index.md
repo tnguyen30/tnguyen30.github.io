@@ -12,7 +12,7 @@ Chào mừng mọi người đến với portfolio của mình. Mình tên là T
 <br>
 The "Soulbot" project is a sound design initiative for a commercial video titled "SoulBot." The music was created using Apple Live Loops and assembled in Logic Pro. Most of the sound effects were sourced from freesound.org. The entire project was edited using Pro Tools.
 <br><br>
-“Soulbot” là dự án thiết kế âm thanh cho video quảng cáo với tên gốc là “SoulBot.” Mình sử dụng instrumental của Apple Live Loops và âm thanh được mix trong phần mềm Logic Pro. Các hiệu ứng âm thanh (SFX) được lấy từ web freesound.org. Toàn bộ âm thanh và hình ảnh được mix và master trong Pro Tools.
+“Soulbot” là dự án thiết kế âm thanh cho video quảng cáo với tên gốc là “SoulBot.” Mình sử dụng instrumental của Apple Live Loops và âm thanh được mix trong phần mềm Logic Pro. Các hiệu ứng âm thanh (SFX) được lấy từ trang web freesound.org. Toàn bộ âm thanh và hình ảnh được mix và master trong Pro Tools.
 <br><br>
 Reference: ["SoulBot" by Andreas Wannerstedt](https://vimeo.com/25413547), _Vimeo_.
 
@@ -32,7 +32,7 @@ Reference: ["Bedfellows" - Award Winning Short Horror Film" by Kentleigh](https:
 <br>
 "Dear A," is a classical-inspired piece from J.S. Bach's "Minuet in G minor" (BWV Anh. 115). It includes sound effects to create a storytelling experience. The music was recorded and edited using Digital Performer. 
 <br><br>
-“Dear A,” là nhạc cổ điển được lấy cảm hứng từ tác phẩm “Minuet in G minor” (BWV Anh. 115) của nhạc sĩ J.S. Bach. Bài nhạc được sử dụng thêm hiệu ứng âm thanh để tạo nên một trải nghiệm sống động theo mạch truyện. Bài “Dear A,” được thu âm và chỉnh sửa bởi Digital Performer. Mặc dù không có hình ảnh, mình mong người nghe có thể cảm nhận được câu chuyện viết lên bởi âm thanh và nhạc.
+“Dear A,” là nhạc cổ điển được lấy cảm hứng từ tác phẩm “Minuet in G minor” (BWV Anh. 115) của nhạc sĩ J.S. Bach. Bài nhạc được sử dụng thêm hiệu ứng âm thanh để tạo nên một trải nghiệm sống động theo mạch truyện. Bài “Dear A,” được thu âm và chỉnh sửa trên Digital Performer. Mặc dù không có hình ảnh, mình mong người nghe có thể cảm nhận được câu chuyện được viết lên bằng âm thanh.
 <br><br>
 Reference: [Bach (Petzold) - Minuet in G Minor - BWV Anh 115](https://youtu.be/XL7DugH00co?si=dwGjSdvwPLtpQax-), _YouTube_.
 
